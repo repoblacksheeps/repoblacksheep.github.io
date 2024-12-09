@@ -1,5 +1,5 @@
 # repoblacksheep REPOSITORY
-# Versão Actual: 1.12
+# Versão Actual: 1.11
 
 Instruções para a adição deste repo:
 
