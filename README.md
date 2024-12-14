@@ -1,5 +1,5 @@
 # repoblacksheep REPOSITORY
-# Versão Actual: 1.11
+# Versão Actual: 1.14
 
 Instruções para a adição deste repo:
 
@@ -10,7 +10,7 @@ Instruções para a adição deste repo:
     <li>Clicar em "Adicionar fonte"</li>
     <li>O endereço para a fonte é <code>https://tinyurl.com/repoblacksheeep</code> (Dar o nome de "repoblacksheep Repo").</li>
     <li>Ir para "Addons"</li>
-    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repoblacksheep Repo", e instalar <a href="repository.repoblacksheep-1.11.zip">repository.repoblacksheep-1.11.zip</a>.</li>
+    <li>Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "repoblacksheep Repo", e instalar <a href="repository.repoblacksheep-1.14.zip">repository.repoblacksheep-1.14.zip</a>.</li>
     <li>Voltar para Addons,mas desta vez, selecionar "Instalar do repositório"</li>
     <li>Selecionar o "repoblacksheep Repository"</li>
     
