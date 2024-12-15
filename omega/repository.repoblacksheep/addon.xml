@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="repository.repoblacksheep" name="[B][COLOR red]REPO[/COLOR][/B][B][COLOR orange]BLACKSHEEP[/COLOR][/B]" version="1.14" provider-name="[B][COLOR lime]@BLACK[/COLOR][/B][B][COLOR yellow]SHEEP_B[/COLOR][/B]">
   <requires>
-    <import addon="xbmc.addon" version="12.0.0"/>
+    <import addon="xbmc.addon" version="12.0.0"/>  
   </requires>
   <extension point="xbmc.addon.repository" name="[COLOR red]repoblacksheep [COLOR cyan]Repositorio[/COLOR]">
     <dir>
@@ -16,19 +15,19 @@
       <checksum>https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/omega/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/omega</datadir>
       <hashes>false</hashes>
-  </dir>
+  </dir> 
 <dir minversion="19.9.9">
       <info compressed="true">https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/nexus/addons.xml</info>
       <checksum>https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/nexus/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/nexus</datadir>
       <hashes>false</hashes>
-  </dir>
+  </dir>  
   <dir minversion="19.0.0">
       <info compressed="true">https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/matrix/addons.xml</info>
       <checksum>https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/matrix/addons.xml.md5</checksum>
       <datadir zip="true">https://raw.github.com/repoblacksheeps/repoblacksheep.github.io/master/matrix</datadir>
       <hashes>false</hashes>
-  </dir>
+  </dir>    
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>repositorio repoblacksheep</summary>
@@ -42,4 +41,3 @@
     </assets>
   </extension>
 </addon>
-</addons>
